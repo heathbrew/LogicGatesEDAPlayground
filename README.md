@@ -61,7 +61,7 @@ ANS.
 
  
  
-
+ 
 OR GATE (Design bench.sv)
 module Orgate(a,b,c);
   input a;
