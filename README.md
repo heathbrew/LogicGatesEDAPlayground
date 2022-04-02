@@ -1,4 +1,6 @@
 # LogicGatesEDAPlayground
+view in raw
+verilog codes
 In this Lab, we shall start Verilog. To run Verilog, we shall use http://www.edaplayground.com. After opening you will find Design or Testbench window pane. In the Design window you need write the Verilog Code and in the Testbench window, the testbench verification code will be written
 1.	Write a Verilog code to implement AND gate. Write the corresponding Testbench code for the verification of your Verilog code.
 Truth Table of AND Gate:
